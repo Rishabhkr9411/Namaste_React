@@ -1,0 +1,19 @@
+{
+  "name": "1_inception",
+  "version": "1.0.0",
+  "description": "A: `Emmet` is the essential toolkit for web-developers. It allows you to `type shortcuts` that are then expanded into full pieces of code for writing `HTML and CSS`, based on an abbreviation structure most developers already use that expands into full-fledged HTML markup and CSS rules.",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rishabh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
